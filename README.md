@@ -20,8 +20,8 @@ Dans le dossier \data-api\bin\Debug\net5.0, ouvrir un terminal :
 
 Télécharger et extraire ce repository
 
-npm install
+> npm install
 
-npm run start
+> npm run start
 
 
